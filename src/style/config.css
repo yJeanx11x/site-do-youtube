@@ -1,0 +1,20 @@
+*{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Poppins',sans-serif;
+        text-decoration: none;
+        list-style: none;
+}
+:root{
+        --bg-color:var(var(--bg-color) #101113);
+        --tex-color:#fff;
+        --main-color:#34e7f8;
+        --other-color:#fcfcfc;
+        --h1-fonte:4rem;
+        --p-fonte:1rem;
+}
+body{
+        background-color: #101113;
+        color: #fcfcfc;
+}
